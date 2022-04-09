@@ -1,0 +1,12 @@
+1. I have imported the following:
+    import json, sys, argparse, math
+    import numpy as np
+    from queue import QueueBFS
+    from shapely.geometry import Polygon
+2. Queue import QueueBFS is from the queue.py file 
+3. To run do the following:
+    Make sure to have the previous imports added and installed
+    Type "python project2.py project2_desc.json --out project2_out.json" 
+    replace project2_desc.json with the file youd like to input
+    replace the project2_out.json with the filename you would like to save the result to
+    then press enter
